@@ -5,9 +5,9 @@
   <subtitle>Life was like a box of chocolates,you never know what you’re gonna get</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://gigpanda.github.io/"/>
   <updated>2018-12-02T14:00:50.498Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://gigpanda.github.io/</id>
   
   <author>
     <name>GIGpanda</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>my first post</title>
-    <link href="http://yoursite.com/2018/12/02/my-first-post/"/>
-    <id>http://yoursite.com/2018/12/02/my-first-post/</id>
+    <link href="https://gigpanda.github.io/2018/12/02/my-first-post/"/>
+    <id>https://gigpanda.github.io/2018/12/02/my-first-post/</id>
     <published>2018-12-02T13:56:01.000Z</published>
     <updated>2018-12-02T14:00:50.498Z</updated>
     
@@ -35,19 +35,19 @@
     
     </summary>
     
-      <category term="ACM" scheme="http://yoursite.com/categories/ACM/"/>
+      <category term="ACM" scheme="https://gigpanda.github.io/categories/ACM/"/>
     
     
-      <category term="代码" scheme="http://yoursite.com/tags/%E4%BB%A3%E7%A0%81/"/>
+      <category term="代码" scheme="https://gigpanda.github.io/tags/%E4%BB%A3%E7%A0%81/"/>
     
-      <category term="投稿" scheme="http://yoursite.com/tags/%E6%8A%95%E7%A8%BF/"/>
+      <category term="投稿" scheme="https://gigpanda.github.io/tags/%E6%8A%95%E7%A8%BF/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/12/01/hello-world/"/>
-    <id>http://yoursite.com/2018/12/01/hello-world/</id>
+    <link href="https://gigpanda.github.io/2018/12/01/hello-world/"/>
+    <id>https://gigpanda.github.io/2018/12/01/hello-world/</id>
     <published>2018-12-01T10:09:35.166Z</published>
     <updated>2018-12-01T10:09:35.166Z</updated>
     
