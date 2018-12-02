@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gigpanda.github.io/"/>
-  <updated>2018-12-01T10:09:35.166Z</updated>
+  <updated>2018-12-02T14:57:17.464Z</updated>
   <id>https://gigpanda.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my first blog</title>
+    <link href="https://gigpanda.github.io/2018/12/02/my%20first%20blog/"/>
+    <id>https://gigpanda.github.io/2018/12/02/my first blog/</id>
+    <published>2018-12-02T14:43:00.000Z</published>
+    <updated>2018-12-02T14:57:17.464Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>其实笔者很早之前就想搭建基于Github+Hexo的个人博客，但一直没有时间。当笔者上个周末参加完2018年的</code></pre><p> ACM-ICPC亚洲区域赛(焦作)后，就意识到自己和大佬之间的差距，所以就搭建了个人博客来记录笔者的学习记录。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;其实笔者很早之前就想搭建基于Github+Hexo的个人博客，但一直没有时间。当笔者上个周末参加完2018年的
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt; ACM-ICPC亚洲区域赛(焦作)后，就意识到自己和大佬之间的差距，所以就搭建了个人博客来记录笔者的学习记录。&lt;
+      
+    
+    </summary>
+    
+      <category term="ACM" scheme="https://gigpanda.github.io/categories/ACM/"/>
+    
+    
+      <category term="Hexo" scheme="https://gigpanda.github.io/tags/Hexo/"/>
+    
+      <category term="Github" scheme="https://gigpanda.github.io/tags/Github/"/>
+    
+      <category term="ACM" scheme="https://gigpanda.github.io/tags/ACM/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
