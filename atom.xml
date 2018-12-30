@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gigpanda.github.io/"/>
-  <updated>2018-12-30T15:55:24.705Z</updated>
+  <updated>2018-12-30T15:57:44.634Z</updated>
   <id>https://gigpanda.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://gigpanda.github.io/2018/12/30/PythonDraw/"/>
     <id>https://gigpanda.github.io/2018/12/30/PythonDraw/</id>
     <published>2018-12-30T15:48:24.000Z</published>
-    <updated>2018-12-30T15:55:24.705Z</updated>
+    <updated>2018-12-30T15:57:44.634Z</updated>
     
     <content type="html"><![CDATA[<p>这是笔者的第一个python代码，主要功能就是绘制一条蟒蛇。<br>‘’’</p><p>#PythonDraw<br>import turtle                   #导入海龟库<br>turtle.setup(650,350,200,200)   # 设置画布 长 宽 与屏幕左上角相距坐标<br>turtle.penup()                  # 海龟飞起<br>turtle.forward(-250)            # 海龟后退<br>turtle.pendown()                # 海龟下降<br>turtle.pensize(20)              # 画笔大小<br>turtle.color(“red”)             # 画笔颜色<br>turtle.setheading(-40)          # 海龟转向 绝对角度 相对于整个坐标系而言<br>for i in range (4):             # 做4次循环<br>    turtle.circle(40,80)        # 画弧 圆心在海龟左边 半径为40像素 角度为80度<br>    turtle.circle(-40,80)       # 画弧 圆心在海龟右边 半径为40像素 角度为80度<br>turtle.circle(40,80/2)          # 画弧 圆心在海龟左边 半径为40像素 角度为40度<br>turtle.forward(40)              # 海龟前进<br>turtle.circle(16,180)           # 画弧 圆心在海龟左边 半径为40像素 角度为80度<br>turtle.forward(40*2/3)          # 海龟前进<br>turtle.down()                   # 手动关闭 否者程序执行完毕自动关闭<br>‘’’</p>]]></content>
     
